@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Lucas Cabral👋
 - 🔭 Estudando Node.js
+
+- 🎂 13 anos
   
 - 🌱 Minas Gerais ...
   
