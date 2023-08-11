@@ -5,7 +5,6 @@
   
 - 🌱 Minas Gerais ...
   
-- 😄 Pronouns: ele/dele
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ltcabral21&show_icons=true&theme=radical)
 
