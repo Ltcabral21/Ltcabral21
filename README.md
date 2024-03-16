@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Cabral👋
-- 🔭 Studing Node.js
+- 🔭 Studing DATA SCIENCE
 
-- 🎂 13 years old
+- 🎂 14 years old
   
 - 🌱 Minas Gerais ...
   
