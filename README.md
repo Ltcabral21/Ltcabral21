@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Cabral👋
+### HELLO WORLD, I AM LUCAS CABRAL👋
 - 🤖 AI ENTHUSIAST
 
 - 🐍 PYTHON
@@ -7,8 +7,8 @@
   
 - 🌱 MINAS GERAIS
 
-- 
-
+- 🌐 FLUENCE IN ENGLISH
+  
 - 🇨🇦 EXCHANGE PROGRAM TO CANADA 
 
 
